@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: api
-        image: fabricioveronez/api-bootcamp-produto:v1
+        image: vitorlacerda/api-bootcamp-produto:v1
         ports:
         - containerPort: 8080
         env:
